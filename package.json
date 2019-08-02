@@ -36,7 +36,7 @@
   "homepage": "https://github.com/flyandi/react-native-maps-navigation#readme",
   "peerDependencies": {
     "react": "*",
-    "react-native": "*",
+    "react-native": "0.59.10",
     "react-native-maps": ">=0.21.0"
   },
   "dependencies": {
